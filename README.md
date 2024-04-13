@@ -12,10 +12,10 @@ Welcome to the Feedback App! This application allows users to submit feedback, e
 - Mobile responsive design
 
 ## Screenshots
-
-![Screenshot 1](AssessmentTask-Frontend/app/assets/screenshots/1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-
+<div align="center">
+  <img src="/app/assets/screenshots/1.png" alt="Hero section" width="400" style="margin-right: 40px;"/>
+  <img src="/public/screenshots/img2.png" alt="Games section" width="400"/>
+</div>
 ## Demo
 
 Check out the video demonstration on YouTube:
