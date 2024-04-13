@@ -13,7 +13,8 @@ Welcome to the Feedback App! This application allows users to submit feedback, e
 
 ## Screenshots
 <div align="center">
-  <img src="/app/assets/screenshots/1.png" alt="Hero section" width="400" />
+  <img src="/app/assets/screenshots/1.png" alt="Hero section" width="500" />
+  <img src="/app/assets/screenshots/2.png" alt="Hero section" width="500" />
 
 </div>
 ## Demo
