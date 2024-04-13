@@ -17,6 +17,21 @@ Welcome to the Feedback App! This application allows users to submit feedback, e
   <img src="/app/assets/screenshots/2.png" alt="Hero section" width="500" />
 
 </div>
+<div align="center">
+  <img src="/app/assets/screenshots/3.png" alt="Hero section" width="500" />
+  <img src="/app/assets/screenshots/4.png" alt="Hero section" width="500" />
+
+</div>
+<div align="center">
+  <img src="/app/assets/screenshots/5.png" alt="Hero section" width="500" />
+  <img src="/app/assets/screenshots/6.png" alt="Hero section" width="500" />
+
+</div>
+<div align="center">
+  <img src="/app/assets/screenshots/7.png" alt="Hero section" width="500" />
+  <img src="/app/assets/screenshots/8.png" alt="Hero section" width="500" />
+
+</div>
 ## Demo
 
 Check out the video demonstration on YouTube:
