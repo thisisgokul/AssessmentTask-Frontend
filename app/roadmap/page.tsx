@@ -74,7 +74,7 @@ const Page = () => {
             In Progress ({inProgressData.length})
           </h2>
           <p className="text-darker-gray-light lg:text-lg text-xs">
-            Currently being developed
+            Currently being developed.
           </p>
         </div>
         <div>
