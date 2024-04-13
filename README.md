@@ -13,7 +13,7 @@ Welcome to the Feedback App! This application allows users to submit feedback, e
 
 ## Screenshots
 
-![Screenshot 1](/app/assets/screenshots/1.png)
+![Screenshot 1](./app/assets/screenshots/1.png)
 ![Screenshot 2](/path/to/screenshot2.png)
 
 ## Demo
