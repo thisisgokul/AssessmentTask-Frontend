@@ -20,5 +20,6 @@ Welcome to the Feedback App! This application allows users to submit feedback, e
 
 Check out the video demonstration on YouTube:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=BWZ8vCWLkrQ])
+[![Demo Video]](https://www.youtube.com/watch?v=BWZ8vCWLkrQ)
+
 
